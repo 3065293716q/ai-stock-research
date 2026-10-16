@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Stock Research"
+  short_description: "A股与美股深度研究、严谨估值、持仓诊断和纪律化买卖计划"
+  default_prompt: "Use $ai-stock-research to research this A-share or U.S. stock and give me a disciplined, executable action plan."
